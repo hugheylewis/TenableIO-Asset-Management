@@ -5,7 +5,7 @@ A Python script to automate the management of stale scan agents in Tenable.io
 The following packages are required to be installed:
 1. `pip install python-dotenv`
 2. `pip install pytenable`
-More information about **pyTenable** can be found here: https://pypi.org/project/pyTenable/
+<br>More information about **pyTenable** can be found here: https://pypi.org/project/pyTenable/
 
 # IMPORTANT
 When installing the **dotenv** module:
